@@ -1,4 +1,4 @@
-## Music Player
+## _Music Player_
 
 Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API
 
